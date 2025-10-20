@@ -1,13 +1,30 @@
 <!doctype html>
-<html lang="{{ page.lang | default: site.lang }}">
+<html lang="ru-RU">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{% if page.title %}{{ page.title | escape }}{% else %}}{{ site.title | escape }}{% endif %}</title>
-    <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+    <title>Медиа</title>
+    <meta name="description" content="Тяжела и неказиста жизнь простого программиста">
   </head>
   <body>
-    {{ content }}
+    <header>
+  <h1>Медиа СЮП</h1>
+  
+</header>
+
+<main>
+<p>Как выяснилось, в Москве есть большая потребность в неформальных встречах программистов,
+без привязки к конкретным технологиям и языкам.</p>
+
+<p>Ниша «посидеть и поговорить» оказалась незаполненной.
+Этот пробел требует немедленной ликвидации, которой мы и занимаемся.</p>
+
+</main>
+
+<footer>
+  <p>&copy; Медиа СЮП.</p>
+</footer>
+
   </body>
 </html>
