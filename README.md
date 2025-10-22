@@ -9,13 +9,21 @@
   - [Логотип чёрный (SVG)](/logo/SYP-logo2025_black.svg)
   - [Логотип чёрный (PNG)](/logo/SYP-logo2025_black.png)
 - **Другое**
-  - [Структура (SVG)](/other/SYP-structure-v3.svg)
-  - [Структура (PNG)](/other/SYP-structure-v3@2x.png)
-  - [Логотип Roundcube почты (SVG)](/other/SYP-roundcube2025_color.svg) 
+  - Структура
+    - [Структура (SVG)](/other/SYP-structure-v3.svg)
+    - [Структура (PNG)](/other/SYP-structure-v3@2x.png)
+  - Автоматизированная система учёта (АСУ)
+    - [Логотип АСУ полноцветный (SVG)](/other/SYP-ASY-logo2025-v1.svg)
+    - [Логотип АСУ белый (SVG)](/other/SYP-ASY-logo2025-v1_white.svg)
+    - [Баннер АСУ полноцветный (SVG)](/other/SYP-ASY-logo2025_long-v1.svg)
+    - [Баннер АСУ полноцветный (PNG)](/other/SYP-ASY-logo2025_long-v1.png)
+    - [Баннер АСУ белый (SVG)](/other/SYP-ASY-logo2025_long-v1_white.svg)
+    - [Баннер АСУ белый (PNG)](/other/SYP-ASY-logo2025_long-v1_white.png)
+  - [Логотип Roundcube почты (SVG)](/other/SYP-roundcube2025_color.svg)
 
-## Дополнительно
+## Фотографии членов (портреты)
 > [!NOTE]
-> Для использования автара с фотографией члена используйте динимаческую ссылку:
+> Для использования аватара с фотографией члена используйте динамическую ссылку:
 ```
 https://media.github.oo-syp.ru/user-photos/НОМЕР_ЧЛЕНСКОГО_БИЛЕТА.jpg
 ```
