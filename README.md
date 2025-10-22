@@ -19,7 +19,10 @@
     - [Баннер АСУ полноцветный (PNG)](/other/SYP-ASY-logo2025_long-v1.png)
     - [Баннер АСУ белый (SVG)](/other/SYP-ASY-logo2025_long-v1_white.svg)
     - [Баннер АСУ белый (PNG)](/other/SYP-ASY-logo2025_long-v1_white.png)
-  - [Логотип Roundcube почты (SVG)](/other/SYP-roundcube2025_color.svg)
+  - Электронная почта Roundcube
+    - [Логотип Roundcube почты (SVG)](/other/SYP-roundcube2025_color.svg)
+  - Система дистанционного обучения (СДО)
+    - [Логотип СДО (PNG)](/other/syp-logo-moodle_sdo.png)
 
 ## Фотографии членов (портреты)
 > [!NOTE]
